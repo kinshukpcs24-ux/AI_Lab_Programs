@@ -1,5 +1,3 @@
-import random
-
 def get_h_score(state):
     """Calculate number of attacking pairs of queens."""
     n = len(state)
